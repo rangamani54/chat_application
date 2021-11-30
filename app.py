@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 serverip = "127.0.0.1"
-serverport = 4642
+serverport = 1000
 st = "<sep>"
 
 #receiverip = ""

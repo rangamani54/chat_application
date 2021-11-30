@@ -2,7 +2,7 @@ import socket
 import threading
 
 receiverip = "0.0.0.0"
-receiverport = 4642
+receiverport = 1000
 #st = "<sep>"
 client_socket = set()
 
