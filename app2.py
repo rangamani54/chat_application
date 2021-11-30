@@ -30,7 +30,7 @@ name = input("Enter your name: ")
 def sender():
     while True:
         msgs = send.recv(1024).decode()
-        print("\n"+ msgs + f" at {time()}")
+        print("\n"+ msgs + f"  at {time()}")
         
 t1 = threading.Thread(target=sender)
 t1.daemon = True
