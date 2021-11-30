@@ -5,8 +5,8 @@ import pyttsx3
 
 
 
-serverip = "3.110.41.11"
-serverport = 4642
+serverip = "127.0.0.1"
+serverport = 1000
 st = "<sep>"
 
 #receiverip = ""
